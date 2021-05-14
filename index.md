@@ -26,7 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
