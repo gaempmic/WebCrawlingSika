@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en" data-direction="ltr">
   <head>
     <link href="https://fonts.intercomcdn.com" rel="preconnect" crossorigin>
