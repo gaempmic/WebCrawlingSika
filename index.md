@@ -6,7 +6,7 @@
 <p>My first paragraph.</p>
 <nav>
     <ul>
-    <li><a href="1088682-dimensions-and-formats-accepted.html">dimensions-and-formats-accepted.html</a></li>
+    <li><a href="1088682-dimensions-and-formats-accepted.md">dimensions-and-formats-accepted.html</a></li>
 <li><a href="3956082-learner-dashboard.html">learner-dashboard.html</a></li>
 <li><a href="3957865-my-account-configuration.html">my-account-configuration.html</a></li>
 <li><a href="3966358-administrator-dashboard.html">administrator-dashboard.html</a></li>
