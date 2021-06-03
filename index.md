@@ -4,6 +4,6 @@
   
 <nav>
     <ul>
-        <li><a href="Chatbot.css">Chat Bot</a></li>
+        <li><a href="https://soriamar.github.io/SIKA-Chatbot-Demo/">Chat Bot</a></li>
         <li><a href="Content.html">RiseUp Repository</a></li>      
       <ul>
