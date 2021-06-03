@@ -1,7 +1,7 @@
 # ![sika-logo](https://user-images.githubusercontent.com/81644815/120680500-abb97d80-c49a-11eb-9d48-cf39e01b4168.jpg)
 
 <img src="https://user-images.githubusercontent.com/81644815/120680500-abb97d80-c49a-11eb-9d48-cf39e01b4168.jpg" alt="SIKA"
-	title="SIKA" width="150" height="100" />
+	title="SIKA" height="100" />
   
 <nav>
     <ul>
