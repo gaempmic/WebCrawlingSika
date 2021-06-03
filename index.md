@@ -1,8 +1,7 @@
 # ![sika-logo](https://user-images.githubusercontent.com/81644815/120680500-abb97d80-c49a-11eb-9d48-cf39e01b4168.jpg)
-## ![Download](https://user-images.githubusercontent.com/81644815/120680524-b3792200-c49a-11eb-8ad4-fe2a33982e1a.png)
-## ![Website_Header_zhaw](https://user-images.githubusercontent.com/81644815/120680512-b07e3180-c49a-11eb-8f9a-c74e5bfb9b26.png)
 
-RiseUp Repository 
+# SIKA RiseUp WebCrawling Repository 
+## this repository is not linked with the RiseUp Plattform, all the .html files we static and won't be updated
 
 <nav>
     <ul>
