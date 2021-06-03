@@ -3,6 +3,7 @@
 
   
 <nav>
-    <ul><li><a href="Content.md">learner-dashboard</a></li>
+    <ul>
         <li><a href=Chatbot.md>Chat Bot</a></li>
+        <li><a href="Content.md">RiseUp Repository</a></li>      
       <ul>
