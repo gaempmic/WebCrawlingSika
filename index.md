@@ -1,8 +1,26 @@
-<a href="https://gaempmic.github.io/WebCrawlingSika/1088682-dimensions-and-formats-accepted.html" title="About Me">About Me</a>
+# ZHAW-IBM ChatBot Challenge
 
+![SIKA Logo](sika-logo.jpg "SIKA LOGO")
+
+Welcome to our Demo Web Site, to open the assitant please click the icon on the bottom-right corner of the page.
+
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "b54e556c-13a6-4007-bb05-4062c8d5b848", // The ID of this integration.
+      region: "eu-de", // The region your integration is hosted in.
+      serviceInstanceID: "8a2b9171-366e-4684-9d79-1deaecb2e1d7", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+        
 <nav>
     <ul>
-    <li><a href="1088682-dimensions-and-formats-accepted.md">dimensions-and-formats-accepted.html</a></li>
+    <li><a href="1088682-dimensions-and-formats-accepted.html">dimensions-and-formats-accepted.html</a></li>
 <li><a href="3956082-learner-dashboard.html">learner-dashboard.html</a></li>
 <li><a href="3957865-my-account-configuration.html">my-account-configuration.html</a></li>
 <li><a href="3966358-administrator-dashboard.html">administrator-dashboard.html</a></li>
