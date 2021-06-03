@@ -4,6 +4,6 @@
   
 <nav>
     <ul>
-        <li><a href=Chatbot.md>Chat Bot</a></li>
-        <li><a href="Content.md">RiseUp Repository</a></li>      
+        <li><a href=Chatbot.html>Chat Bot</a></li>
+        <li><a href="Content.html">RiseUp Repository</a></li>      
       <ul>
