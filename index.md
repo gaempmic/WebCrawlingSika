@@ -100,5 +100,4 @@ Welcome to our Demo Web Site, to open the assitant please click the icon on the 
 <li><a href="4660760-pin-a-community-message-to-your-uers-dashboard.html">pin-a-community-message-to-your-uers-dashboard</a></li>
 <li><a href="4670434-access-connection-times-in-virtual-classrooms-via-zoom.html">access-connection-times-in-virtual-classrooms-via-zoom</a></li>
 <li><a href="4698776-assess-skills.html">assess-skills</a></li>
-    </ul>
-    </nav>
+
