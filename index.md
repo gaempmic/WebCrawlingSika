@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
+<a href="https://gaempmic.github.io/WebCrawlingSika/1088682-dimensions-and-formats-accepted.html" title="About Me">About Me</a>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 <nav>
     <ul>
     <li><a href="1088682-dimensions-and-formats-accepted.md">dimensions-and-formats-accepted.html</a></li>
