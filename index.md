@@ -3,4 +3,6 @@
 
   
 <nav>
-    <ul><li><a href="Content.md">learner-dashboard</a></li><li><a href=https://soriamar.github.io/SIKA-Chatbot-Demo>Chat Bot</a></li><ul>
+    <ul><li><a href="Content.md">learner-dashboard</a></li>
+        <li><a href=Chatbot.md>Chat Bot</a></li>
+      <ul>
